@@ -1,0 +1,19 @@
+.bg-cont {
+  background-image: url(https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png);
+  background-size: cover;
+  height: 100vh;
+  padding: 50px;
+  text-align: center;
+  font-family: Roboto;
+}
+.heading {
+  font-size: 30px;
+  font-family: Roboto;
+  color: black;
+}
+.card {
+  background-color: #cffafe;
+  height: 400px;
+  padding: 20px;
+  border-radius: 10px;
+}
